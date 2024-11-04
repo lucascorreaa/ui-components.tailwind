@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.cdnfonts.com/css/avenir');
+
+* {
+    font-family: 'Avenir', sans-serif;
+
+}
+
+@media (min-width: 500px) {
+    .main {
+        display: flex;
+        flex-direction: row;
+    }
+}

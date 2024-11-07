@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="flex justify-center">
+    <div class="flex gap-2 flex-col px-4 py-4 w-80 rounded-lg border-solid border-2 border-indigo-600">
+        <header class="flex justify-center h-10 items-center">
+            <h1 class=""><b>What's yours favorite pizza topping?</b></h1>
+        </header>
+
+        <main class="">
+            <fieldset class="flex flex-col gap-2">
+                <label class="flex gap-2 h-10 items-center">
+                    <input type="radio" name="check">Pepperoni
+                </label>
+
+                <label class="flex gap-2 h-10 items-center" for="">
+                    <input type="radio" name="check">Mushrooms
+                </label>
+
+                <label class="flex gap-2 h-10 items-center" for="">
+                    <input type="radio" name="check">Chicken
+                </label>
+
+                <label class="flex gap-2 h-10 items-center" for="">
+                    <input type="radio" name="check">Pineapple
+                </label>
+            </fieldset>
+        </main>
+
+        <hr>
+        <footer class="flex justify-end">
+            <button
+                class="flex bg-blue-900 text-white w-32 h-10 justify-center items-center rounded-lg ">Submit</button>
+        </footer>
+    </div>
+</body>
+</html>

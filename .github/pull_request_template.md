@@ -7,7 +7,7 @@ Fiz um componente de sign in e sign up, o mesmo se encontra no figma como "TailG
 
 ## Tipo de Mudança
 
-- [x] Novo Componente
+- [ ] Novo Componente
 - [ ] Correção de Bug
 - [ ] Refatoração de Componente
 - [ ] Documentação
@@ -15,14 +15,14 @@ Fiz um componente de sign in e sign up, o mesmo se encontra no figma como "TailG
 
 ## Checklist
 
-- [x] Meu componente está em uma nova pasta dentro de `src/components/`.
-- [x] Eu adicionei `index.html` e `styles.css` para o meu componente.
-- [x] As imagens utilizadas foram exportadas como SVG e colocadas em `src/assets/images/`.
-- [x] Eu segui as regras de contribuição descritas no README.
-- [x]] Fiz uma auto-revisão do meu código.
-- [x] Meu código segue o padrão e está bem documentado.
+- [ ] Meu componente está em uma nova pasta dentro de `src/components/`.
+- [ ] Eu adicionei `index.html` e `styles.css` para o meu componente.
+- [ ] As imagens utilizadas foram exportadas como SVG e colocadas em `src/assets/images/`.
+- [ ] Eu segui as regras de contribuição descritas no README.
+- [ ] Fiz uma auto-revisão do meu código.
+- [ ] Meu código segue o padrão e está bem documentado.
 - [ ] Realizei testes manuais para garantir que o componente está funcionando como esperado.
-- [x] Minha contribuição não gera novos erros ou avisos.
+- [ ] Minha contribuição não gera novos erros ou avisos.
 
 ## Issue relacionada
 
@@ -33,7 +33,7 @@ Resolves: #número_da_issue
 ## Capturas de Tela (se aplicável)
 
 <!-- Adicione capturas de tela que demonstrem o funcionamento do componente ou a mudança feita. -->
-![alt text](<Captura de tela 2024-11-10 163622.png>)
+
 
 ## Outras Considerações
 

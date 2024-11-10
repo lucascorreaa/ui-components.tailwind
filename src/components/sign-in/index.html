@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+</head>
+<body>
+    <div class="flex items-center justify-center mt-9">
+      <img class="" src="/src/assets/images/logomark-singin.png" alt="Company">
+      <h2 class="ml-3 text-2x1 font-bold tracking-tight text-gray-900">TailGrids</h2>
+    </div>
+    <div class="flex min-h-full flex-col justify-center mt-10 sm:mx-auto sm:w-full sm:max-w-sm">
+      
+      <div class="flex flex-col">
+      <label class="block text-sm font-medium text-gray-600" 
+             for="email" ></label>
+      <input class="mb-5 w-full p-3 border border-blue-500 rounded-md"
+             type="email" id="email" name="email" placeholder="Email" required>
+
+      <label class="block text-sm font-medium text-gray-600"
+             for="password" ></label>
+      <input class="mb-5 w-full p-3 border border-gray-300 rounded-md"
+             type="password" id="password" name="password" placeholder="Password" required>
+
+      <button class="flex w-full p-3 bg-blue-500 text-white items-center justify-center rounded-md">Sign In</button>
+
+      <div class="flex w-full items-center justify-center space-x-4 mt-8 mb-8">
+        <div class="border-t border-gray-300 flex-1"></div>
+        <span class="text-gray-500">Connect With</span>
+        <div class="border-t border-gray-300 flex-1"></div>
+      </div>
+      
+      </div>
+  
+      <div class="flex flex-row w-full mt-3 mb-9 border-r-10  justify-between">
+        <button class=" flex bg-blue-900 w-28 h-11 rounded justify-center items-center">
+            <img class="flex justify-center items-center" src="/src/assets/images/logo-facebook-white.png" alt="logo Facebook">
+        </button>
+
+        <button class=" flex bg-blue-400 w-28 h-11 rounded justify-center items-center">
+            <img class="flex justify-center items-center" src="/src/assets/images/logo-twitter.png" alt="logo Twitter">
+        </button>
+
+        <button class=" flex bg-red-700 w-28 h-11 rounded justify-center items-center">
+            <img class="flex justify-center items-center" src="/src/assets/images/logo-google-white.png" alt="logo Google">
+        </button>     
+      </div>
+
+
+      <div class="flex flex-col justify-center items-center gap-2">
+        <div>
+          <h2>Forget Password?</h2>
+        </div>
+        <div class="flex flex-row gap-1 justify items-center">
+          <p class="text-gray-500">Not a member yet?</p>
+          <button class="text-blue-500">Sing Up</button>         
+        </div>
+       </div>
+
+    </div>
+  
+</body>
+</html>

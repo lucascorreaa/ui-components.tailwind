@@ -3,7 +3,7 @@
 ## Descrição do Pull Request
 
 <!-- Descreva de forma clara e concisa o componente que você adicionou ou a modificação que fez. -->
-Fiz um componente de sign in e sign up, o mesmo se encontra no figma como "TailGrid". A ideia é fazer o login no site através das suas credenciais (e-mail e senha) ou usando plataformas como facebook, twitter ou google.
+
 
 ## Tipo de Mudança
 

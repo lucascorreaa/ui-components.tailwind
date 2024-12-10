@@ -4,6 +4,7 @@
 
 <!-- Descreva de forma clara e concisa o componente que você adicionou ou a modificação que fez. -->
 
+
 ## Tipo de Mudança
 
 - [ ] Novo Componente
@@ -32,6 +33,7 @@ Resolves: #número_da_issue
 ## Capturas de Tela (se aplicável)
 
 <!-- Adicione capturas de tela que demonstrem o funcionamento do componente ou a mudança feita. -->
+
 
 ## Outras Considerações
 
